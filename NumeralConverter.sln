@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeralConverter", "NumeralConverter\NumeralConverter.csproj", "{22A4AC93-1AC3-49F4-90A6-45CA5EF1829E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNumeralConverter", "TestNumeralConverter\TestNumeralConverter.csproj", "{A15BF0B6-17BE-4D2A-A520-5ABD5A99E8BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A4AC93-1AC3-49F4-90A6-45CA5EF1829E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A4AC93-1AC3-49F4-90A6-45CA5EF1829E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A4AC93-1AC3-49F4-90A6-45CA5EF1829E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A4AC93-1AC3-49F4-90A6-45CA5EF1829E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15BF0B6-17BE-4D2A-A520-5ABD5A99E8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15BF0B6-17BE-4D2A-A520-5ABD5A99E8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15BF0B6-17BE-4D2A-A520-5ABD5A99E8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15BF0B6-17BE-4D2A-A520-5ABD5A99E8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
